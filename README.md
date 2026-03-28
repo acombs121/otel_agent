@@ -4,14 +4,14 @@ This project is designed to demonstrate how to integrate OpenTelemetry (Otel) wi
 
 ## Setup
 
-Ensure you have Python >= 3.13 installed.
+Ensure you have Python >= 3.10 installed.
 ```bash
 uv sync
 ```
 
 ## Running Locally
 
-Ensure you have Python >= 3.13 and `uv` installed.
+Ensure you have Python >= 3.10 and `uv` installed.
 ```bash
 uv sync
 python3 -m src.otel_agent.main "What is 2+2?"
