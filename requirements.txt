@@ -1,0 +1,10 @@
+google-adk>=1.14.1
+google-cloud-logging
+google-cloud-aiplatform
+google-genai
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-gcp-trace
+opentelemetry-semantic-conventions
+python-dotenv
+pyOpenSSL
